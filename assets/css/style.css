@@ -50,6 +50,7 @@ transition: 1s;
 .social-div h2 {
     text-align: center;
     font-size: 40px;
+    direction: rtl;
 }
 
 .social-div i {
